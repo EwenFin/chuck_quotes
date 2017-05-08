@@ -9,3 +9,5 @@
 Quote.delete_all
 Quote.create({quote: "Chuck Norris does not recognise the independence of Spain", awesome:10})
 Quote.create({quote: "Chuck Norris has no chin, under his beard is a third fist", awesome:10})
+Quote.create({quote: "Chuck Norris definitely said all of these things", awesome:10})
+Quote.create({quote: "Chuck Noriis has counted to infinty. Twice", awesome:10})
